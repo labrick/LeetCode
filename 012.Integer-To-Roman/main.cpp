@@ -9,7 +9,7 @@ public:
         const int TABLE_LEN = 25;
         string romanCharTable[TABLE_LEN] = {
         // 1000, 900,  500, 400,  100, 90,   50,  40,   10,  9,    5,   4,    1 
-            "m", "cm", "d", "cd", "c", "xc", "l", "xl", "x", "MX", "v", "Mv",
+            "m", "cm", "d", "cd", "c", "xc", "l", "xl", "x", "Mx", "v", "Mv",
             "M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"
         };
         int romanTable[TABLE_LEN] = {
