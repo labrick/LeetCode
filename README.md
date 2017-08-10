@@ -9,8 +9,9 @@
 | [第13题](/013.Roman-To-Integer)               | 支持1~3999999的罗马数字转换为阿拉伯数字 |
 | [第14题](/014.Longest-Common-Prefix)          | 这一题比较简单，两个比较O(n)，复杂度也较低 |
 | [第15题](/015.3Sum)                           | 采用搜索并去重效率太低，需要另寻他法 |
-| [第16题](/015.3Sum-Closest)                   | 直接暴力破解，\>O(N^2)要看target的值为多少 |
-| [第17题](/015.Letter-Combinations-of-a-Phone-Number) | 硬性编写，应该没有什么其他更好的方法了吧 |
+| [第16题](/016.3Sum-Closest)                   | 直接暴力破解，\>O(N^2)要看target的值为多少 |
+| [第17题](/017.Letter-Combinations-of-a-Phone-Number) | 硬性编写，应该没有什么其他更好的方法了吧 |
+| [第18题](/018.4Sum)                           | 同[15题](/015.3Sum)，需要继续探索 |
 
 
 ## 注意
